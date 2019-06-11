@@ -1,0 +1,9 @@
+{
+  "baseUrl" :  "http://103.28.47.86:7000",
+  "smsCode" : "/app/v1/user/smscode",
+  "register": "/app/v1/user/register",
+  "login": "/app/v1/user/login",
+  "info": "/app/v1/user/info",
+  "videos": "/app/v1/videos",
+  "cates": "/app/v1/videos/cates"
+}
