@@ -6,6 +6,11 @@
     "login": "/app/v1/user/login",
     "info": "/app/v1/user/info",
     "videos": "/app/v1/videos",
-    "cates": "/app/v1/videos/cates"
+    "cates": "/app/v1/videos/cates",
+    "video_detail":"/app/v1/video_detail",
+    "logout":"/app/v1/user/logout",
+    "upload_avatar":"/app/v1/user/upload_avatar",
+    "change_nick":"/app/v1/user/change_nick",
+    "change_gender":"/app/v1/user/change_gender"
   }
 }
