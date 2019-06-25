@@ -1,16 +1,20 @@
-{"data":
-  {
-    "baseUrl" :  "http://103.28.47.86:7000",
-    "smsCode" : "/app/v1/user/smscode",
-    "register": "/app/v1/user/register",
-    "login": "/app/v1/user/login",
-    "info": "/app/v1/user/info",
-    "videos": "/app/v1/videos",
-    "cates": "/app/v1/videos/cates",
-    "video_detail":"/app/v1/video_detail",
-    "logout":"/app/v1/user/logout",
-    "upload_avatar":"/app/v1/user/upload_avatar",
-    "change_nick":"/app/v1/user/change_nick",
-    "change_gender":"/app/v1/user/change_gender"
+{
+  "data": {
+    "baseUrl": "http://192.168.1.118:3000/mock/67",
+    "smsCode": "/common/send_valid_cod",
+    "register": "/user/register",
+    "login": "/user/login",
+    "logout": "/user/logout",
+    "cates": "/cate/list",
+    "videos": "/video/page",
+    "video_detail": "/video/info",
+    "like": "/recomment/like",
+    "search": "/video/search",
+    "gmyj": "/recomment/gmyj",
+    "vip": "/user/vip",
+    "info": "/user/info",
+    "upload_avatar": "/user/avatar",
+    "save": "/user/save",
+    "down_url": "https://www.baidu.com/"
   }
 }
