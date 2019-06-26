@@ -9,6 +9,7 @@
     "videos": "/video/page",
     "video_detail": "/video/info",
     "like": "/recomment/like",
+    "ad":"/ad/page",
     "search": "/video/search",
     "gmyj": "/recomment/gmyj",
     "vip": "/user/vip",
