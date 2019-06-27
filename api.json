@@ -14,7 +14,7 @@
     "gmyj": "/recommend/gmyj",
     "vip": "/user/vip",
     "info": "/user/info",
-    "upload_avatar": "/user/avatar",
+    "upload": "/common/upload",
     "save": "/user/save",
     "down_url": "https://www.baidu.com/"
   }
