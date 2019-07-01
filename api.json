@@ -1,6 +1,8 @@
 {
   "data": {
-    "baseUrl": "http://192.168.1.118:3000/mock/67",
+    "baseUrl": "http://192.168.1.139:7009",
+    "imgUrl":"http://192.168.1.139:7008",
+    "videoUrl":"http://192.168.1.139:7008",
     "smsCode": "/common/send_valid_cod",
     "register": "/user/register",
     "login": "/user/login",
