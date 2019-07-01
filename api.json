@@ -16,6 +16,7 @@
     "info": "/user/info",
     "upload": "/common/upload",
     "save": "/user/save",
-    "down_url": "https://www.baidu.com/"
+    "down_url": "https://www.baidu.com/",
+    "ad_click":"/ad/click"
   }
 }
