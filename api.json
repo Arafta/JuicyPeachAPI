@@ -3,7 +3,7 @@
     "baseUrl": "http://192.168.1.139:7009",
     "imgUrl":"http://192.168.1.139:7008",
     "videoUrl":"http://192.168.1.139:7008",
-    "smsCode": "/common/send_valid_cod",
+    "smsCode": "/common/send_valid_code",
     "register": "/user/register",
     "login": "/user/login",
     "logout": "/user/logout",
@@ -19,6 +19,7 @@
     "upload": "/common/upload",
     "save": "/user/save",
     "down_url": "https://www.baidu.com/",
-    "ad_click":"/ad/click"
+    "ad_click":"/ad/click",
+    "video_play":"/video/play"
   }
 }
