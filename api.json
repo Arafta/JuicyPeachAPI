@@ -20,6 +20,6 @@
     "save": "/user/save",
     "down_url": "https://www.baidu.com/",
     "ad_click":"/ad/click",
-    "video_play":"/video/play"
+    "play_count":"/video/play"
   }
 }
