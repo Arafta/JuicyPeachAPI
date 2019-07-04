@@ -1,8 +1,8 @@
 {
   "data": {
-    "baseUrl": "http://192.168.1.139:7009",
-    "imgUrl":"http://192.168.1.139:7008",
-    "videoUrl":"http://192.168.1.139:7008",
+    "baseUrl": "http://67.21.71.213:86",
+    "imgUrl":"http://67.21.71.213:8800",
+    "videoUrl":"http://67.21.71.213:8800",
     "smsCode": "/common/send_valid_code",
     "register": "/user/register",
     "login": "/user/login",
@@ -18,7 +18,7 @@
     "info": "/user/info",
     "upload": "/common/upload",
     "save": "/user/save",
-    "down_url": "https://www.baidu.com/",
+    "qrcode_url": "https://www.baidu.com/",
     "ad_click":"/ad/click",
     "play_count":"/video/play"
   }
