@@ -20,6 +20,7 @@
     "save": "/user/save",
     "qrcode_url": "https://www.baidu.com/",
     "ad_click":"/ad/click",
-    "play_count":"/video/play"
+    "play_count":"/video/play",
+    "reset_pass":"/user/reset_pass"
   }
 }
